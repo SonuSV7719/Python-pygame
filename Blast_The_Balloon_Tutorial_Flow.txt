@@ -1,0 +1,5 @@
+1. Create Game window and initializing all required variables 
+2. Displaying balloons on game window
+3. Handling Click on balloons
+4. Adding Game over window 
+5. Adding sound and game play
